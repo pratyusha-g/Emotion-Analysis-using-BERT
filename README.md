@@ -1,4 +1,4 @@
-# Emotion-Analysis-using-BERT
+# Emotion-Analysis-Using-BERT
 
 SMILE Twitter Dataset; PyTorch
 
