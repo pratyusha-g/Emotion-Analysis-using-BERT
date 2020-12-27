@@ -1,5 +1,7 @@
 # Emotion-Analysis-using-BERT
 
+SMILE Twitter Dataset; PyTorch
+
 <b> Outline </b>
 
 1. Exploratory Data Analysis and Preprocessing
