@@ -1,6 +1,7 @@
 # Emotion-Analysis-Using-BERT
 
 SMILE Twitter Dataset; PyTorch
+https://www.kaggle.com/ashkhagan/smile-twitter-emotion-dataset
 
 <b> Outline </b>
 
